@@ -16,11 +16,11 @@ assignment. Add the required files, commit and push them up to Github.
 - [[https://horstmann.com/sjsu/cs046/][Intro to Java - Udacity CS046]]
 - [[https://chortle.ccsu.edu/Java5/index.html#03][Intro to CS using Java - Kjell]]
 
-[[https://classroom.github.com/online_ide?assignment_repo_id=4918079&assignment_repo_type=AssignmentRepo][Work in Repl.it]]
+------------
 
-
-contents of gh-created r:
+contents of gh-classroom-created readme:
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=4918079&assignment_repo_type=AssignmentRepo)
 
+...translated into org-mode markdown:
 
 [[https://classroom.github.com/online_ide?assignment_repo_id=4918079&assignment_repo_type=AssignmentRepo][https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg]]
